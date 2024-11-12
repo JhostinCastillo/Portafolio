@@ -1,4 +1,4 @@
-## Herramienta de Cálculo de Precios y Creación de Facturas para GabyTronicX
+## Factura-s3x | Herramienta de Cálculo de Precios y Creación de Facturas para GabyTronicX
 
 Este proyecto, en su fase final de desarrollo, es una herramienta diseñada para calcular precios y generar facturas en formato PDF para **GabyTronicX**, una pequeña empresa dedicada a la fabricación de **PCBs** e **impresiones 3D**. Puedes visitar su perfil en [Instagram](https://www.instagram.com/gabytronicx/).
 
