@@ -2,8 +2,8 @@
 Este proyecto es una recreación completa del juego de mesa Laser Chess, con el añadido de que cuenta con un algoritmo adversarial capaz de jugar en contra de un jugador real. 
 
 ### Colaboradores
-[Kevin Soler](https://github.com/KevinSolerP)
-[Anwar Julian](https://github.com/Anexty113)
+- [Kevin Soler](https://github.com/KevinSolerP)
+- [Anwar Julian](https://github.com/Anexty113)
 
 ![image](https://github.com/user-attachments/assets/cd9ca59e-6a47-4b18-83de-7e57c8814569)
 ![image](https://github.com/user-attachments/assets/207c280d-9077-4a42-980f-fe6cd8f414a5)
