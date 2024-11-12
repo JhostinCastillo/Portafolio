@@ -21,3 +21,7 @@ Requerimientos:</p>
 * numpy - 1.22.3
 * matplotlib - 3.5.1
 * seaborn - 0.12.2
+
+### Colaboradores
+- [Kevin Soler](https://github.com/KevinSolerP)
+- [Anwar Julian](https://github.com/Anexty113)
