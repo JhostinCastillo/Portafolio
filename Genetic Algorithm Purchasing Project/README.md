@@ -7,6 +7,7 @@ El sistema recibe:
 - Un catálogo de productos, especificando las tiendas donde están disponibles y sus respectivos precios en cada tienda.
 - Una lista de productos a comprar.
 - El costo del combustible.
+- Grafo con las distancias entre tiendas y la casa.
 
 Con estos datos, el algoritmo analiza la **distancia entre las tiendas** y los **precios de los productos** para encontrar la ruta de compra más económica posible. La solución ofrece el **orden de visitas a las tiendas** y selecciona los establecimientos que ofrecen el mejor precio total, considerando tanto el costo de los productos como el de desplazamiento.
 
