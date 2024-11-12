@@ -66,10 +66,10 @@ class Menu:
 
         match nivel:
             case '1':
-                with open(r'C:\Users\lenovo\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Juegos inteligentes\github\JuegosInteligentes\LaserChess\tableros\ACE\ACE.txt', 'r') as archivo:
+                with open(ruta_base+r'tableros\ACE\ACE.txt', 'r') as archivo:
                     partida = [line.strip().split() for line in archivo.readlines()]
 
-                with open(r'C:\Users\lenovo\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Juegos inteligentes\github\JuegosInteligentes\LaserChess\tableros\ACE\inicio.json', 'r') as archivo:
+                with open(ruta_base+r'tableros\ACE\inicio.json', 'r') as archivo:
                     inicio= json.load(archivo)
 
             case '2':
