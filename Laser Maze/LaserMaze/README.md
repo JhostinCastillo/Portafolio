@@ -1,4 +1,7 @@
 # Laser Maze
+### Colaboradores
+- [Kevin Soler](https://github.com/KevinSolerP)
+- [Anwar Julian](https://github.com/Anexty113)
 
 ![Contenido del juego Laser Maze](https://img.lakeshorelearning.com/is/image/OCProduction/ga104?wid=800&fmt=jpeg&qlt=85,1&pscan=auto&op_sharpen=0&resMode=sharp2&op_usm=1,0.65,6,0)
 
@@ -34,74 +37,10 @@
   - Espacio vacío: .
   - Haz de luz: —,| (dependiendo de la dirección), + (si se cruzan), extra: ⇗,⇖
 
-## Ejemplo de partida
+## Nuestro juego
+![image](https://github.com/user-attachments/assets/b17d3aa7-a704-4b4a-9e29-ef4390402945)
+![image](https://github.com/user-attachments/assets/534b2527-1342-45e6-ba01-bfd15b22173b)
 
-- Sin resolver
+## Juego original 
+![image](https://github.com/user-attachments/assets/f1c80dfb-be99-4453-8c98-59e0118b560e)
 
-• &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; •<br>
-m &nbsp; • &nbsp; &nbsp; # &nbsp; ↖ &nbsp; &nbsp; •<br>
-m &nbsp; • &nbsp; &nbsp; / &nbsp; &nbsp; • &nbsp; &nbsp; •<br>
-• &nbsp; &nbsp; L &nbsp; &nbsp; • &nbsp; &nbsp; ↕. &nbsp; •<br>
-• &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; m &nbsp; •
-
-Debes usar [/,/,↗]
-
-Pulsa D para disparar el láser
-
-- Si pulso D en el estado actual:
-
-• &nbsp; &nbsp; | &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; •<br>
-m &nbsp; | &nbsp; &nbsp; # &nbsp; ↖ &nbsp; &nbsp; •<br>
-m &nbsp; | &nbsp; &nbsp; / &nbsp; &nbsp; • &nbsp; &nbsp; •<br>
-• &nbsp; &nbsp; L &nbsp; &nbsp; • &nbsp; &nbsp; ↕. &nbsp; •<br>
-• &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; m &nbsp; •
-
-Debes usar [/,/,↗]
-
-Pulsa D para parar el láser
-
-## Vamos a resolver este problema paso a paso
-
-- Ponemos un espejo (/) en 0,1:
-
-• &nbsp; &nbsp; / &nbsp; &nbsp; — &nbsp; &nbsp; — &nbsp; &nbsp; —<br>
-m &nbsp; | &nbsp; &nbsp; # &nbsp; ↖ &nbsp; &nbsp; •<br>
-m &nbsp; | &nbsp; &nbsp; / &nbsp; &nbsp; • &nbsp; &nbsp; •<br>
-• &nbsp; &nbsp; L &nbsp; &nbsp; • &nbsp; &nbsp; ↕. &nbsp; •<br>
-• &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; m &nbsp; •
-
-Debes usar [/,↗]
-
-Pulsa D para parar el láser
-
-- Ponemos un espejo traslúcido (↗) en 0,2 y lo rotamos (↖):
-
-• &nbsp; &nbsp; / &nbsp; &nbsp; ↖ &nbsp; &nbsp; — &nbsp; &nbsp; —<br>
-m &nbsp; | &nbsp; &nbsp; # &nbsp; ↖ &nbsp; &nbsp; •<br>
-M &nbsp; + &nbsp; &nbsp; / &nbsp; &nbsp; • &nbsp; &nbsp; •<br>
-• &nbsp; &nbsp; L &nbsp; &nbsp; • &nbsp; &nbsp; ↕. &nbsp; •<br>
-• &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; m &nbsp; •
-
-Debes usar [/]
-
-- Ponemos un espejo (/) en 0,2 y lo rotamos (\):
-
-• &nbsp; &nbsp; / &nbsp; &nbsp; ↖ &nbsp; &nbsp; \ &nbsp; &nbsp; •<br>
-m &nbsp; | &nbsp; &nbsp; # &nbsp; ↖ &nbsp; &nbsp; —<br>
-M &nbsp; + &nbsp; &nbsp; / &nbsp; &nbsp; | &nbsp; &nbsp; •<br>
-• &nbsp; &nbsp; L &nbsp; &nbsp; • &nbsp; &nbsp; ↕. &nbsp; •<br>
-• &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; M &nbsp; •
-
-Debes usar []
-
-- Rotamos (↖) que está en 1,3 a (↗):
-
-• &nbsp; &nbsp; / &nbsp; &nbsp; ↖ &nbsp; &nbsp; \ &nbsp; &nbsp; •<br>
-M &nbsp; + &nbsp; &nbsp; # &nbsp; ↗ &nbsp; &nbsp; •<br>
-M &nbsp; + &nbsp; &nbsp; / &nbsp; &nbsp; | &nbsp; &nbsp; •<br>
-• &nbsp; &nbsp; L &nbsp; &nbsp; • &nbsp; &nbsp; ↕. &nbsp; •<br>
-• &nbsp; &nbsp; • &nbsp; &nbsp; • &nbsp; &nbsp; M &nbsp; •
-
-Debes usar []
-
-Así quedaría resuelto
