@@ -13,3 +13,7 @@ Este proyecto, en su fase final de desarrollo, es una herramienta diseñada para
 Gracias a esta herramienta, **GabyTronicX** puede gestionar sus precios de manera eficiente y ofrecer una experiencia de facturación moderna, accesible desde cualquier parte del mundo.
 
 ![image](https://github.com/user-attachments/assets/71e4f70c-e3ae-4de6-b381-e048b32ddda4)
+
+## Enlaces
+Repositorio: https://github.com/JhostinCastillo/Facturacion
+Producto en desarrollo: https://factura-s3x.streamlit.app ⚠️El producto aùn se encuentra en desarrollo, así que es posible que presente errores, principalmente con las credenciales de drive.⚠️
