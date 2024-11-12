@@ -8,6 +8,9 @@ En esta implementación, Llama está orientado a asistir a empleados de una empr
 ### Accesibilidad
 Para facilitar el acceso al asistente virtual, se utilizó **Streamlit** para crear una interfaz web. De esta manera, todos los empleados de la Asociación pueden acceder al asistente sin importar la capacidad de su hardware.
 
+![image](https://github.com/user-attachments/assets/f3423d09-0dd9-47e6-ab0c-e8ba41302c63)
+![image](https://github.com/user-attachments/assets/ddc56ab1-264a-4230-88e2-7484d9d6557b)
+
 ### Tecnologías Utilizadas
 - **Llama 3.1 (versión 8b)**: modelo de lenguaje optimizado para brindar respuestas precisas basadas en *Embeddings*.
 - **Streamlit**: plataforma empleada para crear una aplicación web accesible y fácil de usar.
