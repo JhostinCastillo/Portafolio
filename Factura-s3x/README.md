@@ -18,4 +18,4 @@ Gracias a esta herramienta, **GabyTronicX** puede gestionar sus precios de maner
 - Repositorio: https://github.com/JhostinCastillo/Facturacion
 - Producto en desarrollo: https://factura-s3x.streamlit.app
 
-⚠️El producto aùn se encuentra en desarrollo, así que es posible que presente errores, principalmente con las credenciales de drive.⚠️
+⚠️El producto aùn se encuentra en desarrollo, así que es posible que presente errores, principalmente con las credenciales de Drive.⚠️
