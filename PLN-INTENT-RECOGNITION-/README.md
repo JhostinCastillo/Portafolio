@@ -69,9 +69,9 @@ j.  Debe entregar un documento de infraestructura del proyecto que contenga:
       
   -  Explicación de cómo funciona el sistema de clasificación creado. 
 
-###Debe exponer el proyecto en clase, de lo contrario, no valdrá puntos.
-
-
+### Colaboradores
+- [Kevin Soler](https://github.com/KevinSolerP)
+- [Anwar Julian](https://github.com/Anexty113)
 
 
 
