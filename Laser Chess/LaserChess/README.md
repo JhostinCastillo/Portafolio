@@ -5,6 +5,12 @@ Este proyecto es una recreación completa del juego de mesa Laser Chess, con el 
 - [Kevin Soler](https://github.com/KevinSolerP)
 - [Anwar Julian](https://github.com/Anexty113)
 
+### Nuetro juego
+![image](https://github.com/user-attachments/assets/48fd83ec-0071-484b-9eb6-1f71054d9ec7)
+![image](https://github.com/user-attachments/assets/aeae167d-fa38-4af2-b89f-8b475ba6da1b)
+
+
+### Juego original
 ![image](https://github.com/user-attachments/assets/cd9ca59e-6a47-4b18-83de-7e57c8814569)
 ![image](https://github.com/user-attachments/assets/207c280d-9077-4a42-980f-fe6cd8f414a5)
 ![image](https://github.com/user-attachments/assets/8c0e5acb-e47d-425a-8d25-39d4e76ac515)
