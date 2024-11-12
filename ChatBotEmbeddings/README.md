@@ -1,6 +1,18 @@
-##ChatBot con Embeddings 
-Este proyecto es una implementación del modelo de lenguaje, Llama 3.1, especificamente la versión 8b, en el que se emplea la técnica de Embeddings para darle al modelo la capacidad de responder a tus preguntas basándose en documentosn que se le fueron entregados.
+## ChatBot con Embeddings
 
-En esta implementación especificamente, Llama está orientado a asistir a empleados de una empresa fictisia llamada "Asociación Pro-Desarrollo Comunal del Patio Inc", al modelo se le fue entregado un PDF con todos los detalles de la empresa y es de ahí que saca la información, así que el asistente siempre dará información real y no alusinará.
+Este proyecto es una implementación del modelo de lenguaje **Llama 3.1**, específicamente la versión **8b**, en el que se emplea la técnica de *Embeddings* para darle al modelo la capacidad de responder a tus preguntas basándose en documentos entregados previamente.
 
-Se usó Streamlit para crear una web, con la finalidad de que todos los empleados de la Asociación puedan tener acceso al asistente virtual sin importar la potencia de su hardware. 
+### Objetivo del Proyecto
+En esta implementación, Llama está orientado a asistir a empleados de una empresa ficticia llamada **"Asociación Pro-Desarrollo Comunal del Patio Inc."**. Se le proporcionó al modelo un PDF con todos los detalles de la empresa, y es a partir de este documento que el asistente extrae la información. Esto asegura que las respuestas del asistente virtual sean precisas y estén basadas en datos reales, minimizando el riesgo de que "alucine" o genere información ficticia.
+
+### Accesibilidad
+Para facilitar el acceso al asistente virtual, se utilizó **Streamlit** para crear una interfaz web. De esta manera, todos los empleados de la Asociación pueden acceder al asistente sin importar la capacidad de su hardware.
+
+### Tecnologías Utilizadas
+- **Llama 3.1 (versión 8b)**: modelo de lenguaje optimizado para brindar respuestas precisas basadas en *Embeddings*.
+- **Streamlit**: plataforma empleada para crear una aplicación web accesible y fácil de usar.
+- **Embeddings**: técnica que permite al modelo comprender y relacionar conceptos en base a documentos específicos.
+
+---
+
+Con esta implementación, la **Asociación Pro-Desarrollo Comunal del Patio Inc.** obtiene una herramienta útil y accesible para mejorar la experiencia de sus empleados al responder preguntas sobre la organización de forma rápida y confiable.
