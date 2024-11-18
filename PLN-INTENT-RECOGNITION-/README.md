@@ -70,7 +70,7 @@ j.  Debe entregar un documento de infraestructura del proyecto que contenga:
   -  Explicación de cómo funciona el sistema de clasificación creado. 
 
 ### Colaboradores
-- [Kevin Soler](https://github.com/KevinSolerP)
+- [Kevin Soler](https://www.linkedin.com/in/kevin-soler-887a28130?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Anwar Julian](https://github.com/Anexty113)
 
 
