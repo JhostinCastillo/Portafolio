@@ -1,6 +1,6 @@
 # Laser Maze
 ### Colaboradores
-- [Kevin Soler](https://github.com/KevinSolerP)
+- [Kevin Soler](https://www.linkedin.com/in/kevin-soler-887a28130?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Anwar Julian](https://github.com/Anexty113)
 
 ![Contenido del juego Laser Maze](https://img.lakeshorelearning.com/is/image/OCProduction/ga104?wid=800&fmt=jpeg&qlt=85,1&pscan=auto&op_sharpen=0&resMode=sharp2&op_usm=1,0.65,6,0)
